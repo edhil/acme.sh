@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #DEPLOY_TOMCAT_KEYSTORE="/etc/tomcat/.keystore"
-#DEPLOY_TOMCAT_KEYPASS="voQyehj1JWQIAQgTVAvAW5fwT7sNSXUp"
+#DEPLOY_TOMCAT_KEYPASS="mykeypasspasswordstoredinserverxml"
 #DEPLOY_TOMCAT_RELOAD="systemctl restart tomcat"
 #DEPLOY_KEY_ALIAS="tomcat"
 
